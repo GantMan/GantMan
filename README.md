@@ -1,4 +1,8 @@
-<img src="https://gantlaborde.com/wp-content/uploads/2020/04/ess12.png" align="left" width="300" />
+<table width="100%">
+<tr>
+  <td><img src="https://gantlaborde.com/wp-content/uploads/2020/04/ess12.png" align="left" width="300" /></td>
+  <td>
+
 <h1 align="center">Hi 👋, I'm Gant</h1>
 <h3 align="center">a mad scientist in training.</h3>
 
@@ -10,7 +14,9 @@
 
 - 💬 Ask me about **React, React Native, AI, ML, and TensorFlow.js**
 
-<hr style="clear: left"/>
+</td>
+  </tr>
+</table>
 
 - **I'm a member of these amazing groups**
   - Google GDE (Web/ML)
