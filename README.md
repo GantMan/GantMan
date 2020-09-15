@@ -19,7 +19,7 @@
   - Oracle Groundbreaker Ambassador
   - Distringuished Toastmaster
 
-### Blogs posts
+### Most Recent Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [The Binary Dino Puzzle](https://codeburst.io/the-binary-dino-puzzle-8c443d9b0380?source=rss-6ca0fe37eac1------2)
 - [TensorFlow.js + AWS Amplify](https://shift.infinite.red/tensorflow-js-aws-amplify-e08a14fd995?source=rss-6ca0fe37eac1------2)
