@@ -1,4 +1,4 @@
-<img src="https://gantlaborde.com/wp-content/uploads/2020/04/unicorn-624x749-2.png" align="left" width="300" />
+<img src="https://gantlaborde.com/wp-content/uploads/2020/04/ess12.png" align="left" width="300" />
 <h1 align="center">Hi 👋, I'm Gant</h1>
 <h3 align="center">a mad scientist in training.</h3>
 
@@ -10,7 +10,9 @@
 
 - 💬 Ask me about **React, React Native, AI, ML, and TensorFlow.js**
 
-- I'm a member of these groups
+<hr style="clear: left"/>
+
+- I'm a member of these amazing groups
   - Google GDE (Web/ML)
   - AWS Community Builders
   - Cloudinary MDE
