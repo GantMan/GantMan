@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Gant</h1>
 <h3 align="center">a mad scientist in training.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gantman" alt="gantman" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=gantman" alt="gantman" /> </p>
 
 - 🔭 I’m currently working on **cool things with TensorFlow.js** and **React Native**.  <a href="https://twitter.com/GantLaborde" target="_blank">Follow me on Twitter!<a/>
 
@@ -18,14 +18,14 @@
   </tr>
 </table>
 
-- **I'm a member of these amazing groups**
+### I'm a member of these amazing groups
   - Google GDE (Web/ML)
   - AWS Community Builders
   - Cloudinary MDE
   - Oracle Groundbreaker Ambassador
   - Distringuished Toastmaster
 
-### Most Recent Blogs posts
+### My most recent blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [The Binary Dino Puzzle](https://codeburst.io/the-binary-dino-puzzle-8c443d9b0380?source=rss-6ca0fe37eac1------2)
 - [TensorFlow.js + AWS Amplify](https://shift.infinite.red/tensorflow-js-aws-amplify-e08a14fd995?source=rss-6ca0fe37eac1------2)
