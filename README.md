@@ -12,7 +12,7 @@
 
 <hr style="clear: left"/>
 
-- I'm a member of these amazing groups
+- **I'm a member of these amazing groups**
   - Google GDE (Web/ML)
   - AWS Community Builders
   - Cloudinary MDE
