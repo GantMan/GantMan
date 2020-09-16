@@ -18,8 +18,18 @@
   </tr>
 </table>
 
-<div style="display: inline; float: right;">
-<h3>I'm a member of these amazing groups</h3>
+
+<table style="table-layout: fixed;">
+  <tr>
+      <th width="50%">
+        My Affiliate Groups
+        </th>
+              <th>
+            Fav Tech
+        </th>
+    </tr>
+  <tr>
+    <td>
 <ul>
   <li> Google GDE (Web/ML)</li>
   <li> AWS Community Builders</li>
@@ -27,7 +37,12 @@
   <li> Oracle Groundbreaker Ambassador</li>
   <li> Distringuished Toastmaster</li>
 </ul>
-</div>
+</td>
+    <td>
+      <p align="left"><img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></p>
+      </td>
+      </tr>
+      </table>
 
 ### My most recent blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -38,7 +53,7 @@
 - [7 Reasons React Native is Going to Be BIG in 2021](https://shift.infinite.red/7-reasons-react-native-is-going-to-be-big-in-2021-4b08c771788e?source=rss-6ca0fe37eac1------2)
 <!-- BLOG-POST-LIST:END -->
 
-<p align="left"><img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gantman&layout=compact&hide=html" alt="gantman" /></p>
 
