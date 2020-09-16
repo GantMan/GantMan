@@ -18,12 +18,16 @@
   </tr>
 </table>
 
-### I'm a member of these amazing groups
-  - Google GDE (Web/ML)
-  - AWS Community Builders
-  - Cloudinary MDE
-  - Oracle Groundbreaker Ambassador
-  - Distringuished Toastmaster
+<div style="display: inline; float: right;">
+<h3>I'm a member of these amazing groups</h3>
+<ul>
+  <li> Google GDE (Web/ML)</li>
+  <li> AWS Community Builders</li>
+  <li> Cloudinary MDE</li>
+  <li> Oracle Groundbreaker Ambassador</li>
+  <li> Distringuished Toastmaster</li>
+</ul>
+</div>
 
 ### My most recent blogs posts
 <!-- BLOG-POST-LIST:START -->
