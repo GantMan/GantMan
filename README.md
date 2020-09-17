@@ -35,7 +35,7 @@
   <li> AWS Community Builders</li>
   <li> Cloudinary MDE</li>
   <li> Oracle Groundbreaker Ambassador</li>
-  <li> Distringuished Toastmaster</li>
+  <li> Distinguished Toastmaster</li>
 </ul>
 </td>
     <td>
