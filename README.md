@@ -44,7 +44,7 @@
       </tr>
       </table>
 
-### My most recent blogs posts
+### 📜 My most recent blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [The Binary Dino Puzzle](https://codeburst.io/the-binary-dino-puzzle-8c443d9b0380?source=rss-6ca0fe37eac1------2)
 - [TensorFlow.js + AWS Amplify](https://shift.infinite.red/tensorflow-js-aws-amplify-e08a14fd995?source=rss-6ca0fe37eac1------2)
@@ -57,7 +57,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gantman&layout=compact&hide=html" alt="gantman" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gantman&show_icons=true" alt="gantman" /></p>
+<p>&nbsp;<img align="center" style="max-width: 50%" width="50%" src="https://github-readme-stats.vercel.app/api?username=gantman&show_icons=true" alt="gantman" /></p>
 
 <p align="center">
 <a href="https://twitter.com/https://twitter.com/gantlaborde" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/gantlaborde" height="30" width="30" /></a>
