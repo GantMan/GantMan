@@ -46,11 +46,11 @@
 
 ### 📜 My most recent blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Live-coding, Creating, Living](https://medium.com/@gantlaborde/live-coding-creating-living-1e29f9e77ecd?source=rss-6ca0fe37eac1------2)
 - [The Binary Dino Puzzle](https://codeburst.io/the-binary-dino-puzzle-8c443d9b0380?source=rss-6ca0fe37eac1------2)
 - [TensorFlow.js + AWS Amplify](https://shift.infinite.red/tensorflow-js-aws-amplify-e08a14fd995?source=rss-6ca0fe37eac1------2)
 - [React Native Final Steps](https://shift.infinite.red/react-native-final-steps-691a01f9d895?source=rss-6ca0fe37eac1------2)
 - [AI Face/Off — Fawkes vs. NicOrNot](https://shift.infinite.red/ai-face-off-fawkes-vs-nicornot-ef6b50b4ccb8?source=rss-6ca0fe37eac1------2)
-- [7 Reasons React Native is Going to Be BIG in 2021](https://shift.infinite.red/7-reasons-react-native-is-going-to-be-big-in-2021-4b08c771788e?source=rss-6ca0fe37eac1------2)
 <!-- BLOG-POST-LIST:END -->
 
 
