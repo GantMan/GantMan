@@ -44,7 +44,7 @@
       </tr>
       </table>
 
-### 📜 My most recent blogs posts
+### 📜 &nbsp; My most recent blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Xmas Dice Mathematics](https://shift.infinite.red/xmas-dice-mathematics-404950de4303?source=rss-6ca0fe37eac1------2)
 - [Live-coding, Creating, Living](https://medium.com/@gantlaborde/live-coding-creating-living-1e29f9e77ecd?source=rss-6ca0fe37eac1------2)
