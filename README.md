@@ -8,11 +8,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gantman" alt="gantman" /> </p>
 
-- 🔭 I’m currently working on **cool things with TensorFlow.js** and **React Native**.  <a href="https://twitter.com/GantLaborde" target="_blank">Follow me on Twitter!<a/>
+- 🔭 &nbsp; I’m currently working on **cool things with TensorFlow.js** and **React Native**.  <a href="https://twitter.com/GantLaborde" target="_blank">Follow me on Twitter!<a/>
 
-- 👨‍💻 All of my public speaking is available at [https://gantlaborde.com/](https://gantlaborde.com/)
+- 👨‍💻 &nbsp; All of my public speaking is available at [https://gantlaborde.com/](https://gantlaborde.com/)
 
-- 💬 Ask me about **React, React Native, AI, ML, and TensorFlow.js**
+- 💬 &nbsp; Ask me about **React, React Native, AI, ML, and TensorFlow.js**
 
 </td>
   </tr>
