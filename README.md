@@ -46,11 +46,11 @@
 
 ### 📜 &nbsp; My most recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My Awesome Stuff List](https://shift.infinite.red/my-awesome-stuff-list-2a440805573c?source=rss-6ca0fe37eac1------2)
 - [Xmas Dice Mathematics](https://shift.infinite.red/xmas-dice-mathematics-404950de4303?source=rss-6ca0fe37eac1------2)
 - [Live-coding, Creating, Living](https://medium.com/@gantlaborde/live-coding-creating-living-1e29f9e77ecd?source=rss-6ca0fe37eac1------2)
 - [The Binary Dino Puzzle](https://codeburst.io/the-binary-dino-puzzle-8c443d9b0380?source=rss-6ca0fe37eac1------2)
 - [TensorFlow.js + AWS Amplify](https://shift.infinite.red/tensorflow-js-aws-amplify-e08a14fd995?source=rss-6ca0fe37eac1------2)
-- [React Native Final Steps](https://shift.infinite.red/react-native-final-steps-691a01f9d895?source=rss-6ca0fe37eac1------2)
 <!-- BLOG-POST-LIST:END -->
 
 
