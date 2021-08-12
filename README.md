@@ -47,11 +47,11 @@
 
 ### 📜 &nbsp; My most recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Ultimate Productivity Hack](https://shift.infinite.red/the-ultimate-productivity-hack-6eb2cf921d0e?source=rss-6ca0fe37eac1------2)
 - [Magic Arrow Puzzle — 3D Geometry](https://shift.infinite.red/magic-arrow-puzzle-3d-geometry-50fa2844d65?source=rss-6ca0fe37eac1------2)
 - [[From our friends] Dicify AI](https://blog.code-inspector.com/from-our-friends-dicify-ai-8c58a4016586?source=rss-6ca0fe37eac1------2)
 - [The Remote Work Starter Kit — Office Stuff Edition](https://shift.infinite.red/the-remote-work-starter-kit-office-stuff-edition-5f1d360bfe70?source=rss-6ca0fe37eac1------2)
 - [The Remote Work Starter Kit — Desk Stuff Edition](https://shift.infinite.red/the-remote-work-starter-kit-desk-stuff-edition-6b841b8c745?source=rss-6ca0fe37eac1------2)
-- [Writing a Book — 9 Lessons](https://shift.infinite.red/writing-a-book-9-lessons-1239e5c760d3?source=rss-6ca0fe37eac1------2)
 <!-- BLOG-POST-LIST:END -->
 
 
