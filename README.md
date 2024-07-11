@@ -1,6 +1,6 @@
 <table width="100%">
 <tr>
-  <td><img src="https://gantlaborde.com/wp-content/uploads/2022/09/small_gant-1024x1024.jpg" align="left" width="300" /></td>
+  <td><img src="https://gantlaborde.com/wp-content/uploads/2022/11/React-Advanced-London-2022-559x372.jpg" align="left" width="300" /></td>
   <td>
 
 <h1 align="center">Hi 👋, I'm Gant</h1>
