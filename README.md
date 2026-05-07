@@ -80,9 +80,10 @@
 
 ### 📜 &nbsp; My most recent blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Chain React Conf vs COVID — 2022](https://shift.infinite.red/chain-react-conf-vs-covid-2022-919724bf5aae?source=rss-6ca0fe37eac1------2)
-- [Gifting Cryptocurrency to Kids](https://shift.infinite.red/gifting-cryptocurrency-to-kids-c9c5a4644f31?source=rss-6ca0fe37eac1------2)
-- [The Ultimate Productivity Hack](https://shift.infinite.red/the-ultimate-productivity-hack-6eb2cf921d0e?source=rss-6ca0fe37eac1------2)
-- [Magic Arrow Puzzle — 3D Geometry](https://shift.infinite.red/magic-arrow-puzzle-3d-geometry-50fa2844d65?source=rss-6ca0fe37eac1------2)
-- [[From our friends] Dicify AI](https://blog.codiga.io/from-our-friends-dicify-ai-8c58a4016586?source=rss-6ca0fe37eac1------2)
+- [Pushy Notification](https://gantlaborde.medium.com/pushy-notification-0e49b9c979be?source=rss-6ca0fe37eac1------2)
+- [React Native vs Lynx JS](https://shift.infinite.red/react-native-vs-lynx-js-b1fffb0f0152?source=rss-6ca0fe37eac1------2)
+- [What is Ignite X?](https://shift.infinite.red/what-is-ignite-x-9ecde0b34d75?source=rss-6ca0fe37eac1------2)
+- [Building Connections with AI](https://shift.infinite.red/building-connections-with-ai-35d396932e28?source=rss-6ca0fe37eac1------2)
+- [I’m not cool — NFC for Socials](https://gantlaborde.medium.com/im-not-cool-nfc-for-socials-9880683af7de?source=rss-6ca0fe37eac1------2)
+- [Top Ten Reasons to go to Chain React](https://shift.infinite.red/top-ten-reasons-to-go-to-chain-react-665a93883e4f?source=rss-6ca0fe37eac1------2)
 <!-- BLOG-POST-LIST:END -->
