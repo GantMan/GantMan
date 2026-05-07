@@ -1,14 +1,19 @@
 name: Latest blog post workflow
 on:
-  schedule: # Run workflow automatically
+  schedule:
     - cron: "0 * * * *" # Runs every hour, on the hour
-  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+  workflow_dispatch: # Run workflow manually from the Actions tab
+
+permissions:
+  contents: write
+
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://medium.com/feed/@gantlaborde"
+          max_post_count: 6
+          feed_list: "https://medium.com/feed/@gantlaborde,https://shift.infinite.red/feed"
