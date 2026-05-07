@@ -16,4 +16,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           max_post_count: 6
-          feed_list: "https://medium.com/feed/@gantlaborde,https://shift.infinite.red/feed"
+          feed_list: "https://medium.com/feed/@gantlaborde"
