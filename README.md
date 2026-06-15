@@ -80,10 +80,10 @@
 
 ### 📜 &nbsp; My most recent blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Triforce: Agentic Team Method](https://shift.infinite.red/ai-triforce-agentic-team-method-78958857c12b?source=rss-6ca0fe37eac1------2)
+- [AI Triforce: Agentic Team Method](https://medium.com/infinite-red/ai-triforce-agentic-team-method-78958857c12b?source=rss-6ca0fe37eac1------2)
 - [Pushy Notification](https://gantlaborde.medium.com/pushy-notification-0e49b9c979be?source=rss-6ca0fe37eac1------2)
-- [React Native vs Lynx JS](https://shift.infinite.red/react-native-vs-lynx-js-b1fffb0f0152?source=rss-6ca0fe37eac1------2)
-- [What is Ignite X?](https://shift.infinite.red/what-is-ignite-x-9ecde0b34d75?source=rss-6ca0fe37eac1------2)
-- [Building Connections with AI](https://shift.infinite.red/building-connections-with-ai-35d396932e28?source=rss-6ca0fe37eac1------2)
+- [React Native vs Lynx JS](https://medium.com/infinite-red/react-native-vs-lynx-js-b1fffb0f0152?source=rss-6ca0fe37eac1------2)
+- [What is Ignite X?](https://medium.com/infinite-red/what-is-ignite-x-9ecde0b34d75?source=rss-6ca0fe37eac1------2)
+- [Building Connections with AI](https://medium.com/infinite-red/building-connections-with-ai-35d396932e28?source=rss-6ca0fe37eac1------2)
 - [I’m not cool — NFC for Socials](https://gantlaborde.medium.com/im-not-cool-nfc-for-socials-9880683af7de?source=rss-6ca0fe37eac1------2)
 <!-- BLOG-POST-LIST:END -->
