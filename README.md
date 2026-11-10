@@ -62,7 +62,7 @@
 </a>
 
 <a href="https://github.com/gantman">
-  <img src="https://github-profile-trophy.vercel.app/?username=gantman&theme=tokyonight&no-frame=true&margin-w=8&row=1&column=7" alt="Gant's GitHub trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=gantman&theme=tokyonight&no-frame=true&margin-w=8&row=1&column=7" alt="Gant's GitHub trophies" />
 </a>
 
 ---
