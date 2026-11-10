@@ -15,7 +15,7 @@
 - 🔭 &nbsp; Currently working on **cool things with TensorFlow.js** and **React Native**
 - 👨‍💻 &nbsp; Public speaking talks & resources at **[gantlaborde.com](https://gantlaborde.com/)**
 - 💬 &nbsp; Ask me about **React, React Native, AI, ML, and TensorFlow.js**
-- 🏢 &nbsp; CIO at **[Infinite Red](https://infinite.red/)** — based in **New Orleans**
+- 🏢 &nbsp; President at **[Infinite Red](https://infinite.red/)** — based in **New Orleans**
 
 ---
 
